@@ -1,0 +1,12 @@
+*target
+.idea
+.DS_Store
+out
+*.iml
+*.log
+*.txt
+
+*-test.xml
+conf/
+temp/
+logs/
